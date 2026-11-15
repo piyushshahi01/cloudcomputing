@@ -1,0 +1,8 @@
+Test Image,Signs Found,Recognized Classes & Heuristic Scores,IoU (%),Dice (%),Precision (%),Recall (%),Latency (ms)
+comprehensive_test_scene.png,4,Direction Board (96%); Pedestrian Crossing (95%); STOP Sign (94%); Speed Limit 40 (93%),94.3,97.07,100.0,94.3,15.94
+mandatory_blue_scene.png,1,Direction Board (96%),93.27,96.52,100.0,93.27,10.97
+multi_sign_scene.png,4,Direction Board (96%); Pedestrian Crossing (95%); STOP Sign (94%); Speed Limit 40 (93%),94.3,97.07,100.0,94.3,7.91
+speed_limit_scene.png,1,Speed Limit 40 (93%),100.0,100.0,100.0,100.0,5.54
+stop_sign_scene.png,1,STOP Sign (94%),88.11,93.68,100.0,88.11,5.84
+warning_pedestrian_scene.png,1,Pedestrian Crossing (95%),99.75,99.88,100.0,99.75,4.68
+yield_sign_scene.png,1,Pedestrian Crossing (95%),99.87,99.94,100.0,99.87,9.02
